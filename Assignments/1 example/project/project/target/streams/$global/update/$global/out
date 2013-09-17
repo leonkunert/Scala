@@ -1242,7 +1242,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#cache;0.12.4!cache.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#test-agent;0.12.4!test-agent.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-tools.testing#test-interface;0.5!test-interface.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1113ms :: artifacts dl 34ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1501ms :: artifacts dl 40ms[0m
 [0m[[0mdebug[0m] [0m	report for default#default-a6b914;0.1-SNAPSHOT compile produced in /Users/leon/Scala/Assignments/1 example/project/project/target/resolution-cache/reports/default-default-a6b914-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#default-a6b914;0.1-SNAPSHOT runtime produced in /Users/leon/Scala/Assignments/1 example/project/project/target/resolution-cache/reports/default-default-a6b914-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#default-a6b914;0.1-SNAPSHOT test produced in /Users/leon/Scala/Assignments/1 example/project/project/target/resolution-cache/reports/default-default-a6b914-test.xml[0m
@@ -1255,5 +1255,5 @@
 [0m[[0mdebug[0m] [0m	report for default#default-a6b914;0.1-SNAPSHOT sources produced in /Users/leon/Scala/Assignments/1 example/project/project/target/resolution-cache/reports/default-default-a6b914-sources.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#default-a6b914;0.1-SNAPSHOT docs produced in /Users/leon/Scala/Assignments/1 example/project/project/target/resolution-cache/reports/default-default-a6b914-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#default-a6b914;0.1-SNAPSHOT pom produced in /Users/leon/Scala/Assignments/1 example/project/project/target/resolution-cache/reports/default-default-a6b914-pom.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (1113ms resolve - 34ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (1501ms resolve - 40ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

@@ -9,7 +9,7 @@
 		extra-scalaVersion="2.9.2"
 		conf="runtime"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom"
-		date="20130917174612"/>
+		date="20130917183244"/>
 	<dependencies>
 	</dependencies>
 </ivy-report>
